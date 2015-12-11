@@ -1,14 +1,9 @@
-.. image:: https://travis-ci.org/khrapovs/rndensity.svg?branch=master
-    :target: https://travis-ci.org/khrapovs/rndensity
-
-.. image:: https://readthedocs.org/projects/rndensity/badge/?version=latest
-	:target: https://readthedocs.org/projects/rndensity/?badge=latest
-	:alt: Documentation Status
-
 Risk-neutral density-based option pricing
 =========================================
 
-Econometrics of Autoregressive Gamma Processes
+Code basse for 
+
+- `Khrapov (2015) "Option Pricing via Risk-NeutralDensity Forecasting" <https://sites.google.com/site/khrapovs/Khrapov-2014-Risk-neutral-density.pdf>`_
 
 Documentation
 -------------
